@@ -1,0 +1,15 @@
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\bin\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.exe
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\bin\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.deps.json
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\bin\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.runtimeconfig.json
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\bin\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.dll
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\bin\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.pdb
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.AssemblyInfoInputs.cache
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.AssemblyInfo.cs
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.csproj.CoreCompileInputs.cache
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.sourcelink.json
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.dll
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\refint\lab-1-numeric-computation-in-c-Doubledevelo.dll
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.pdb
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\lab-1-numeric-computation-in-c-Doubledevelo.genruntimeconfig.cache
+C:\Users\massi\OneDrive\Documents\VSCode\my-code-dir\lab-0-first-c-Doubledevelo\lab-1-numeric-computation-in-c-Doubledevelo\obj\Debug\net10.0\ref\lab-1-numeric-computation-in-c-Doubledevelo.dll
