@@ -109,4 +109,18 @@ void workWithDecimal()
 
 };
 
-workWithDecimal();
+//workWithDecimal();
+
+void calculateCircleArea(double radius)
+{
+    Console.WriteLine($"Radius of circle is {radius}");
+    double area = Math.PI * Math.Pow(radius,2.0);
+    Console.WriteLine($"Area of circle is {area}");
+    // just for fun
+    double circumfrence = 2.0*Math.PI*radius;
+    Console.WriteLine($"Circumfrence of circle is {circumfrence}");
+}
+;
+
+calculateCircleArea(2.5);
+//calculateCircleArea(4.7);
